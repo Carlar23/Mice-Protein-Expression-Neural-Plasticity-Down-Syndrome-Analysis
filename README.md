@@ -6,12 +6,12 @@ This project analyzes the Mice Protein Expression dataset through a complete dat
 
 |---------------------------------------|
 | Group                               N |
-|---------------------------------------|
+
 | Control-Learning                   159|
 | Control-Non-learning               159|
 | Trisomic-Learning                  133|
 | Trisomic-Non-learning              149|
-----------------------------------------|
+
 
 **Objectives**
 
