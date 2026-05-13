@@ -4,14 +4,14 @@ Full machine learning pipeline on cortical protein expression data to classify m
 **Overview**
 This project analyzes the Mice Protein Expression dataset through a complete data science pipeline: from data cleaning and exploratory analysis to multiclass classification with high-performance models. The goal is to determine whether the expression profile of 14 cortical proteins is sufficient to distinguish four clinical groups.
 
-|---------------------------------------|
+-----------------------------------------
 | Group                               N |
 
 | Control-Learning                   159|
 | Control-Non-learning               159|
 | Trisomic-Learning                  133|
 | Trisomic-Non-learning              149|
-
+-----------------------------------------
 
 **Objectives**
 
